@@ -1,1 +1,1 @@
-api_key_data = ("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")
+api_key_data = ("Enter your api key gotten from Open AI")
