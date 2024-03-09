@@ -163,3 +163,5 @@ history_button = tk.Button(root, text="Show Conversation History", command=show_
 history_button.grid(row=2, column=0, sticky="ew")
 
 root.mainloop()
+
+#Code is still a work in progress and not yet finished and is meant to be a simple representation of an "AI"
